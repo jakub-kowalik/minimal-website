@@ -10,7 +10,6 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 html {
   height: 100%;
-//  overflow: hidden;
 }
 
 body {
@@ -38,8 +37,7 @@ a:hover {
 
 .header {
   height: auto;
-  padding-top: 5vh;
-  padding-bottom: 5vh;
+  padding: 5vh 0;
   margin: auto;
   font-size: 2vw;
 }
@@ -57,12 +55,6 @@ a:hover {
   margin: auto;
   bottom: 0;
   font-size: 16;
-}
-
-.license {
-  text-align: justify;
-  white-space: normal;
-  text-indent: 0;
 }
 
 .menu {
